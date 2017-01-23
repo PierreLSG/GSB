@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+width:100%;
+}
+.container-fluid{
+	height:100%;
+	width:100%;
+}
+#menuLeft{
+	height:100%;
+}
+#contentRight{
+	background-color:blue;
+	height:100%;
+}
+#menuOutil{
+	width:100%;
+}
+h{
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}

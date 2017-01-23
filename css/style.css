@@ -1,0 +1,98 @@
+@charset "utf-8";
+/* CSS Document */
+h1{
+	font-size:large;
+	font-weight:bold;
+}
+header{
+	background-color:#004a80;
+	color:white;
+}
+footer{
+	background-color:#004a80;
+	color:white;
+}
+#forfait{
+	background-color:#004a80;
+	color:white;
+	border-radius:5%;
+	box-shadow: 4px 4px 4px #000000;
+}
+#horsForfait{
+	background-color:#004a80;
+	color:white;
+	border-radius:5%;
+	box-shadow: 4px 4px 4px #000000;
+}
+#containerHorsClassif{
+	background-color:#004a80;
+	color:white;
+	border-radius:5%;
+}
+	
+	
+#containerMain{
+	padding:3%;
+}
+.colResultRecap{
+	border:2px solid black;
+}
+.resultRecap{
+	padding:2%;
+}
+.titleBorder{
+	width:100%;
+	border-bottom:2px solid black;
+}
+.DateStyle{
+	background-color:black;
+	color:white;
+	border-radius:25px;
+
+}
+.contentDate{
+	padding-left:3%;
+	padding-right:3%;
+	
+}
+.inpHF{
+	width:100%;
+}
+.mois{
+
+	color:rgb(200,1,1);
+}
+.anne{
+
+	color:rgb(200,1,1);
+}
+.footer{
+
+	margin-top: 100px;
+ }
+#pied_de_page{
+
+  position: absolute;
+  height:22px;
+  bottom: 0;
+  left: 0;
+  width:100%;
+  text-align: center;
+  clear: both;
+}
+.titre{
+	font-size: 25px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.tableau{
+	color: rgb(180,180,180);
+}
+.title{
+	font-size: 40px;
+	font-weight: bold;
+	text-shadow: 2px 2px 4px #000000;
+}
+.shadow{
+	box-shadow: 2px 2px 4px #000000;
+}

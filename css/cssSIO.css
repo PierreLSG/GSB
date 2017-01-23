@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body{
+	height:100%;
+	width:99%;
+	background-image:url(../image/SioFondBis.jpg);
+	background-repeat:no-repeat;
+}
+#logContent{
+	text-align: center;
+}
+#logoLOG{
+	display:inline-block;
+}
+#formLOG{
+	text-align:center;
+	width:100%;
+}
+#colForm{
+	width:100%;
+}
+#TitleForm{
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	color:#FFFFFF;
+}
+label{
+	color:white;
+	width:10%;
+	text-align:center;
+}
+#buttonvalid{
+	background-color:rgba(0,0,0,0.3);
+	border:none;
+}
+div.form{
+	padding-top: 10%;
+}
